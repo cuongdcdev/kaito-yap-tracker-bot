@@ -1,0 +1,171 @@
+[2025-03-16T08:28:11.908Z] INFO: Database connection opened
+[2025-03-16T08:28:11.925Z] INFO: Database initialized successfully
+[2025-03-16T08:28:11.933Z] INFO: Bot started successfully
+[2025-03-16T08:28:11.934Z] INFO: Score tracking service started (interval: 60 minutes)
+[2025-03-16T08:28:11.982Z] INFO: Checking scores for 0 tracked Twitter users
+[2025-03-16T08:28:35.209Z] INFO: Database connection opened
+[2025-03-16T08:28:35.216Z] INFO: Database initialized successfully
+[2025-03-16T08:28:35.223Z] INFO: Bot started successfully
+[2025-03-16T08:28:35.224Z] INFO: Score tracking service started (interval: 60 minutes)
+[2025-03-16T08:28:35.273Z] INFO: Checking scores for 0 tracked Twitter users
+[2025-03-16T08:29:50.488Z] ERROR: Error fetching Kaito data for https: Request failed with status code 400
+[2025-03-16T08:30:40.587Z] ERROR: Error fetching Kaito data for asdasdwqsd323: Request failed with status code 400
+[2025-03-16T08:39:06.992Z] INFO: Database connection opened
+[2025-03-16T08:39:07.001Z] INFO: Database initialized successfully
+[2025-03-16T08:39:07.009Z] INFO: Bot started successfully
+[2025-03-16T08:39:07.010Z] INFO: Score tracking service started (interval: 60 minutes)
+[2025-03-16T08:39:07.067Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T08:39:14.627Z] ERROR: Error processing /list for chat 748169849: ETELEGRAM: 400 Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 50
+[2025-03-16T08:39:51.498Z] ERROR: Error processing /list for chat 748169849: ETELEGRAM: 400 Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 50
+[2025-03-16T08:42:50.574Z] ERROR: Error processing /list for chat 748169849: ETELEGRAM: 400 Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 50
+[2025-03-16T08:43:23.580Z] INFO: Database connection opened
+[2025-03-16T08:43:23.601Z] INFO: Database initialized successfully
+[2025-03-16T08:43:23.608Z] INFO: Bot started successfully
+[2025-03-16T08:43:23.609Z] INFO: Score tracking service started (interval: 60 minutes)
+[2025-03-16T08:43:23.660Z] INFO: Checking scores for 0 tracked Twitter users
+[2025-03-16T10:21:14.375Z] INFO: Database connection opened
+[2025-03-16T10:21:14.377Z] INFO: Database initialized successfully
+[2025-03-16T10:21:14.380Z] INFO: Bot started successfully
+[2025-03-16T10:21:14.381Z] INFO: Score tracking service started (interval: 60 minutes)
+[2025-03-16T10:21:14.407Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T10:21:19.902Z] INFO: Database connection opened
+[2025-03-16T10:21:19.906Z] INFO: Database initialized successfully
+[2025-03-16T10:21:19.910Z] INFO: Bot started successfully
+[2025-03-16T10:21:19.912Z] INFO: Score tracking service started (interval: 60 minutes)
+[2025-03-16T10:21:19.946Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T10:23:34.367Z] INFO: Database connection opened
+[2025-03-16T10:23:34.371Z] INFO: Database initialized successfully
+[2025-03-16T10:23:34.375Z] INFO: Bot started successfully
+[2025-03-16T10:23:34.375Z] INFO: Score tracking service started (interval: 60 minutes)
+[2025-03-16T10:23:34.402Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T10:28:59.830Z] INFO: Database connection opened
+[2025-03-16T10:28:59.833Z] INFO: Database initialized successfully
+[2025-03-16T10:28:59.836Z] INFO: Bot started successfully
+[2025-03-16T10:28:59.837Z] INFO: Score tracking service started (interval: 60 minutes)
+[2025-03-16T10:28:59.863Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T10:31:15.552Z] INFO: Database connection opened
+[2025-03-16T10:31:15.554Z] INFO: Database initialized successfully
+[2025-03-16T10:31:15.557Z] INFO: Bot started successfully
+[2025-03-16T10:31:15.558Z] INFO: Score tracking service started (interval: 60 minutes)
+[2025-03-16T10:31:15.583Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T10:32:51.108Z] INFO: Database connection opened
+[2025-03-16T10:32:51.111Z] INFO: Database initialized successfully
+[2025-03-16T10:32:51.114Z] INFO: Bot started successfully
+[2025-03-16T10:32:51.115Z] INFO: Score tracking service started (interval: 60 minutes)
+[2025-03-16T10:32:51.140Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T10:33:20.942Z] INFO: Database connection opened
+[2025-03-16T10:33:20.945Z] INFO: Database initialized successfully
+[2025-03-16T10:33:20.949Z] INFO: Bot started successfully
+[2025-03-16T10:33:20.949Z] INFO: Score tracking service started (interval: 60 minutes)
+[2025-03-16T10:33:20.976Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T10:37:25.138Z] ERROR: Error fetching Kaito data for KaitoAI: Request failed with status code 400
+[2025-03-16T10:46:04.137Z] INFO: Database connection opened
+[2025-03-16T10:46:04.140Z] INFO: Database initialized successfully
+[2025-03-16T10:46:04.143Z] INFO: Bot started successfully
+[2025-03-16T10:46:04.144Z] INFO: Score tracking service started (interval: 60 minutes)
+[2025-03-16T10:46:04.170Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T10:53:24.553Z] INFO: Database connection opened
+[2025-03-16T10:53:24.555Z] INFO: Database initialized successfully
+[2025-03-16T10:53:24.558Z] INFO: Bot started successfully
+[2025-03-16T10:53:24.559Z] INFO: Score tracking service started (interval: 60 minutes)
+[2025-03-16T10:53:24.584Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T10:55:58.956Z] INFO: Database connection opened
+[2025-03-16T10:55:58.959Z] INFO: Database initialized successfully
+[2025-03-16T10:55:58.962Z] INFO: Bot started successfully
+[2025-03-16T10:55:58.963Z] INFO: Score tracking service started (interval: 60 minutes)
+[2025-03-16T10:55:58.988Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T10:56:35.558Z] INFO: Database connection opened
+[2025-03-16T10:56:35.561Z] INFO: Database initialized successfully
+[2025-03-16T10:56:35.564Z] INFO: Bot started successfully
+[2025-03-16T10:56:35.565Z] INFO: Score tracking service started (interval: 1 minutes)
+[2025-03-16T10:56:35.590Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T10:56:36.567Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T10:56:37.570Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T10:56:38.573Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T10:56:39.575Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T10:56:40.578Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T10:56:41.581Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T10:56:42.585Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T10:56:43.590Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T10:56:44.591Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T10:56:45.590Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T10:56:46.592Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T10:56:47.595Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T10:56:48.599Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T10:56:49.602Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T10:56:50.606Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T10:56:51.610Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T10:56:52.614Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T10:57:03.633Z] INFO: Database connection opened
+[2025-03-16T10:57:03.635Z] INFO: Database initialized successfully
+[2025-03-16T10:57:03.639Z] INFO: Bot started successfully
+[2025-03-16T10:57:03.639Z] INFO: Score tracking service started (interval: 1 minutes)
+[2025-03-16T10:57:03.664Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T10:58:03.659Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T10:59:03.707Z] INFO: Checking scores for 1 tracked Twitter users
+[2025-03-16T11:00:03.707Z] INFO: Checking scores for 2 tracked Twitter users
+[2025-03-16T11:01:03.714Z] INFO: Checking scores for 2 tracked Twitter users
+[2025-03-16T11:02:03.729Z] INFO: Checking scores for 2 tracked Twitter users
+[2025-03-16T11:03:03.742Z] INFO: Checking scores for 2 tracked Twitter users
+[2025-03-16T11:04:03.758Z] INFO: Checking scores for 2 tracked Twitter users
+[2025-03-16T11:05:03.760Z] INFO: Checking scores for 2 tracked Twitter users
+[2025-03-16T11:06:03.770Z] INFO: Checking scores for 2 tracked Twitter users
+[2025-03-16T11:07:03.797Z] INFO: Checking scores for 2 tracked Twitter users
+[2025-03-16T11:08:03.823Z] INFO: Checking scores for 3 tracked Twitter users
+[2025-03-16T11:09:03.853Z] INFO: Checking scores for 3 tracked Twitter users
+[2025-03-16T11:10:03.863Z] INFO: Checking scores for 3 tracked Twitter users
+[2025-03-16T11:11:03.883Z] INFO: Checking scores for 3 tracked Twitter users
+[2025-03-16T11:12:03.884Z] INFO: Checking scores for 3 tracked Twitter users
+[2025-03-16T11:13:03.915Z] INFO: Checking scores for 3 tracked Twitter users
+[2025-03-16T11:14:03.916Z] INFO: Checking scores for 3 tracked Twitter users
+[2025-03-16T11:14:41.758Z] INFO: Database connection opened
+[2025-03-16T11:14:41.760Z] INFO: Database initialized successfully
+[2025-03-16T11:14:41.764Z] INFO: Bot started successfully
+[2025-03-16T11:14:41.764Z] INFO: Score tracking service started (interval: 1 minutes)
+[2025-03-16T11:14:41.791Z] INFO: Checking scores for 3 tracked Twitter users
+[2025-03-16T11:15:41.788Z] INFO: Checking scores for 3 tracked Twitter users
+[2025-03-16T11:16:41.791Z] INFO: Checking scores for 3 tracked Twitter users
+[2025-03-16T11:17:41.814Z] INFO: Checking scores for 3 tracked Twitter users
+[2025-03-16T11:21:38.774Z] INFO: Database connection opened
+[2025-03-16T11:21:38.776Z] INFO: Database initialized successfully
+[2025-03-16T11:21:38.779Z] INFO: Bot started successfully
+[2025-03-16T11:21:38.780Z] INFO: Score tracking service started (interval: 1 minutes)
+[2025-03-16T11:22:38.795Z] INFO: Checking scores for 3 tracked Twitter users
+[2025-03-16T11:22:39.875Z] INFO: Updated score for ilblackdragon: 2153.81 -> 2153.96
+[2025-03-16T11:22:39.875Z] INFO: Completed checking scores for 3 users in 1.08 seconds
+[2025-03-16T11:23:39.886Z] INFO: Checking scores for 3 tracked Twitter users
+[2025-03-16T11:23:41.130Z] INFO: Updated score for ilblackdragon: 2153.81 -> 2153.96
+[2025-03-16T11:23:41.130Z] INFO: Completed checking scores for 3 users in 1.25 seconds
+[2025-03-16T11:24:41.130Z] INFO: Checking scores for 3 tracked Twitter users
+[2025-03-16T11:24:41.739Z] INFO: Completed checking scores for 3 users in 0.61 seconds
+[2025-03-16T11:25:41.767Z] INFO: Checking scores for 3 tracked Twitter users
+[2025-03-16T11:25:42.383Z] INFO: Completed checking scores for 3 users in 0.62 seconds
+[2025-03-16T11:26:42.394Z] INFO: Checking scores for 3 tracked Twitter users
+[2025-03-16T11:26:43.034Z] INFO: Completed checking scores for 3 users in 0.64 seconds
+[2025-03-16T11:27:43.039Z] INFO: Checking scores for 3 tracked Twitter users
+[2025-03-16T11:27:43.686Z] INFO: Completed checking scores for 3 users in 0.65 seconds
+[2025-03-16T11:28:43.706Z] INFO: Checking scores for 3 tracked Twitter users
+[2025-03-16T11:28:44.340Z] INFO: Completed checking scores for 3 users in 0.65 seconds
+[2025-03-16T11:29:33.721Z] INFO: Database connection opened
+[2025-03-16T11:29:33.724Z] INFO: Database initialized successfully
+[2025-03-16T11:29:33.727Z] INFO: Bot started successfully
+[2025-03-16T11:29:33.728Z] INFO: Score tracking service started (interval: 1 minutes)
+[2025-03-16T11:30:33.768Z] INFO: Checking scores for 3 tracked Twitter users
+[2025-03-16T11:30:34.383Z] INFO: Completed checking scores for 3 users in 0.62 seconds
+[2025-03-16T11:32:21.717Z] INFO: Database connection opened
+[2025-03-16T11:32:21.722Z] INFO: Database initialized successfully
+[2025-03-16T11:32:21.725Z] INFO: Bot started successfully
+[2025-03-16T11:32:21.726Z] INFO: Score tracking service started (interval: 1 minutes)
+[2025-03-16T11:32:50.582Z] ERROR: Error fetching Kaito data for <handle1>: Request failed with status code 400
+[2025-03-16T11:32:51.358Z] ERROR: Error fetching Kaito data for <handle2>: Request failed with status code 400
+[2025-03-16T11:32:52.145Z] ERROR: Error fetching Kaito data for ...: Request failed with status code 400
+[2025-03-16T11:33:21.728Z] INFO: Checking scores for 3 tracked Twitter users
+[2025-03-16T11:33:22.856Z] INFO: Updated score for cuongdc_real: 11.53 -> 198.53
+[2025-03-16T11:33:23.867Z] INFO: Updated score for punk9277: 2.57 -> 12697.57
+[2025-03-16T11:33:23.885Z] INFO: Updated score for ilblackdragon: 11.81 -> 2153.96
+[2025-03-16T11:33:23.886Z] INFO: Completed checking scores for 3 users in 2.16 seconds
+[2025-03-16T11:34:23.928Z] INFO: Checking scores for 3 tracked Twitter users
+[2025-03-16T11:34:24.514Z] INFO: No change in score for cuongdc_real
+[2025-03-16T11:34:24.528Z] INFO: No change in score for ilblackdragon
+[2025-03-16T11:34:24.529Z] INFO: No change in score for punk9277
+[2025-03-16T11:34:24.530Z] INFO: Completed checking scores for 3 users in 0.60 seconds

@@ -1,0 +1,41 @@
+{
+  "name": "kaito-yap-watcher-tg-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for tracking Kaito Yaps scores",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "lint": "eslint . --ext .ts"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1",
+    "node-telegram-bot-api": "^0.64.0",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.9.3",
+    "@types/node-telegram-bot-api": "^0.63.1",
+    "@typescript-eslint/eslint-plugin": "^6.12.0",
+    "@typescript-eslint/parser": "^6.12.0",
+    "eslint": "^8.54.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "pnpm": {
+    "ignoredBuiltDependencies": [
+      "better-sqlite3"
+    ],
+    "onlyBuiltDependencies": [
+      "better-sqlite3",
+      "sqlite3"
+    ]
+  }
+}
